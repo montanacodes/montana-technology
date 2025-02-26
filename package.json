@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/montanacodes/montana-technology/issues"
   },
-  "homepage": "https://github.com/montanacodes/montana-technology#readme"
+  "homepage": "https://github.com/montanacodes/montana-technology#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
 }
